@@ -1,0 +1,1688 @@
+fileFormatVersion: 2
+guid: 708a7d66cdb2ccd4fa9cea1d30ea7295
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Demon-removebg-preview_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 523
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad41961f40fcb0343974bf6848feef46
+      internalID: -1966828243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 523
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1daa87ff515c9047b1682d28e659510
+      internalID: 314249454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_2
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 523
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2fb0a249b35ebd47a4858a03a736f2b
+      internalID: -8467822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 523
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138001780243ed0448e78f69a8b22a27
+      internalID: 1323780627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_4
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 523
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a717a5edf43ce7418f5744ae32b64ac
+      internalID: -427968585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 523
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73aadb132a53cc64793be123e828c7e8
+      internalID: -2107253164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_6
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 523
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f595b62ee438fd428b2680c51c4ea18
+      internalID: -401886005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 467
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5f57a625ffb3c4987bcb2b8822e349
+      internalID: 1963924401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_8
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 467
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce56cfb46ecff6d42afb920f169a3d5e
+      internalID: 911209553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_9
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 467
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f54bab0b8eec844587dc3718317bf96
+      internalID: -552833316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_10
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 467
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9b5510ae9419a468e63a296e1c0864
+      internalID: 1158265892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_11
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 467
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a6f5e39cce4984a8f11f5252cb6915
+      internalID: 1075395387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_12
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 467
+        width: 46
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c1c4f96ca6b8b4fbc7d8144c53d7f1
+      internalID: -644876437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_13
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 467
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a5dae7b69cd5904488ff655bb9e44f5
+      internalID: 1232060105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 414
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9abfcc37e37c64f8b93496e0730de2
+      internalID: 1214867296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_15
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 414
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20dac574607925d4ab4648988fa34fdf
+      internalID: -1804068058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_16
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 414
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da3da8b124e29742ba2f94cc21e1962
+      internalID: 1263257647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_17
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 414
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09c09749efc5c4479c6987586a2648b
+      internalID: 1576357763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_18
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 413
+        width: 55
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d563779d7a24d45459faff3184a0f8fd
+      internalID: -1049361473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_19
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 413
+        width: 61
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a36a778723ad4c54e8a058a188e07389
+      internalID: 1304596094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_20
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 413
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42966d49ffbf5e2449eccf2744a9420f
+      internalID: 1623857211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 363
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d85b18ff8df505479615b034e2c2c0b
+      internalID: 1725590759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_22
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 363
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47034f5173871f84fa7acbd5aa7fe76e
+      internalID: -628437230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_23
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 363
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7a6404e89ebf641a6da7c2132a0749
+      internalID: -90880632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_24
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 363
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6122da9e4ffef14da99436c7731a9e3
+      internalID: 2115829577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_25
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 363
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d3e0e2e7702ca4392a9448dc5ca4c2
+      internalID: -1353242793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_26
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 363
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b5800beac8b10438566b48190ab7b9
+      internalID: 1586190315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_27
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 363
+        width: 52
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd2d3c9fcf03ec4e88d2258700c3506
+      internalID: -1127693690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 311
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08cc096e9cb4bf46a40865498571555
+      internalID: 1517592730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_29
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 311
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b33229a5d50c9845a0fc5a65dc360b0
+      internalID: 1769779529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_30
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 311
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d86769c39bb8f148a639bc4b54d7189
+      internalID: 838317078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_31
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 311
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ff8faea493eca8419927f415f9a0f75
+      internalID: -616884066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_32
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 311
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21ef4696f30a784c915a97a50296f9a
+      internalID: -767747610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_33
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 311
+        width: 39
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65426d129b11cfc42b35a24792cab77b
+      internalID: 860725596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_34
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 311
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48fa30ac16dd9b846b915d2d6ce160c6
+      internalID: 35459581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 260
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245a713304053fb4f90b64a96fa6916f
+      internalID: 1732947487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_36
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 260
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586b02a4c706a5b4d97b83dd526cb89b
+      internalID: -839988975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_37
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 260
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd9b111ec90f1d4783044e552e32e97
+      internalID: 124920552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_38
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 260
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab581f428caec14d8897a47dc040368
+      internalID: -86206066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_39
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 260
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df88840b7dd9ab4985bdf7e3172cebc
+      internalID: -348092138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_40
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 260
+        width: 48
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa6062a77b0ee1488a1a90f6ec6829d
+      internalID: 22505659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_41
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 260
+        width: 49
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8067a143ea6255b42b280ae565b1778b
+      internalID: 561690586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_42
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 207
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c688b43cde3fb4cb616c95646fea0d
+      internalID: 547620671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_43
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 207
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ada4967843a0644b33c262eca1c897
+      internalID: 588795400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_44
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 207
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03b53ef726e3074185b85549c804f57
+      internalID: -1020318590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_45
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 207
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35aaa3f11ecbf3d48925a1062522933e
+      internalID: 1374984796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_46
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 207
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faede3a62954c4f4686cd50bc1b04df8
+      internalID: -929855133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_47
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 207
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d344fcd3c59a287448287eea466f9c77
+      internalID: -1242355803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_48
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 207
+        width: 60
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b45e543f7a5e2747b6713cceb41d1c0
+      internalID: -1767427614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_49
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 151
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fed54aa2a851542b6e5767936feb29
+      internalID: 2105601764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_50
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 151
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f10e407499eea8944aad89e343b46710
+      internalID: -500636582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_51
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 151
+        width: 46
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584962d974862fb4c85c4983c0fc9614
+      internalID: -1527669290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_52
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 151
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915ed7358ad2a574bbb87b3a23d89627
+      internalID: 1840388408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_53
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 151
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e655adcab8c08a54da2e6b583dd9c3bf
+      internalID: 955305623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_54
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 151
+        width: 51
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a8651ff2692da4b966c1df8f1af593
+      internalID: 1338548099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_55
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 152
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970004d8f3845054e8cdc32325f11d90
+      internalID: 1784958206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_56
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 69
+        width: 36
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20893a7c1bd84c94b991b4087f269506
+      internalID: 205995987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_57
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 69
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50138ebd8a7783f46a41099afaaeaffb
+      internalID: 2049757688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_58
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 69
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d45c92dadba8b479afbf6157a3227e
+      internalID: 349274582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_59
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 69
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11f2a1b2368fc2c4c8dcac880a9f7876
+      internalID: -267585022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_60
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 66
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb1b165c9b4f204385f14533a003328
+      internalID: 689290169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_61
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 69
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76da45b9a2110b645a5a9942c39fa6ae
+      internalID: -1472191708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_62
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 69
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f5c8aa61126704f9d1fad4e697d80f
+      internalID: 74863622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_63
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 69
+        width: 49
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468adcb8fb94eb047bf50096f6c3eb68
+      internalID: 1941746647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eafdf2c74d421e142b003c96b2481555
+      internalID: 543787939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_65
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 16
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee85cb620fcf5d4594d2dc9a46f3862
+      internalID: -227283423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_66
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 16
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8d8e5b43115f44ca17dc0d40b246d1
+      internalID: -499099367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_67
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 57
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08513d6d6a5eb2449f4482015a31eaf
+      internalID: -1196207334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_71
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 16
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee960b01e262c914f807003fbe1ddf1c
+      internalID: -1707358976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_72
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 16
+        width: 59
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0cf74cc4463cb547b36260e5c5281f0
+      internalID: -915287008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Demon-removebg-preview_73
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 384
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a4fdc582d2c064e925413b515dde4e
+      internalID: 1884622799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f7b1d2da1140787468a0956252a08c2d
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Demon-removebg-preview_0: -1966828243
+      Demon-removebg-preview_1: 314249454
+      Demon-removebg-preview_10: 1158265892
+      Demon-removebg-preview_11: 1075395387
+      Demon-removebg-preview_12: -644876437
+      Demon-removebg-preview_13: 1232060105
+      Demon-removebg-preview_14: 1214867296
+      Demon-removebg-preview_15: -1804068058
+      Demon-removebg-preview_16: 1263257647
+      Demon-removebg-preview_17: 1576357763
+      Demon-removebg-preview_18: -1049361473
+      Demon-removebg-preview_19: 1304596094
+      Demon-removebg-preview_2: -8467822
+      Demon-removebg-preview_20: 1623857211
+      Demon-removebg-preview_21: 1725590759
+      Demon-removebg-preview_22: -628437230
+      Demon-removebg-preview_23: -90880632
+      Demon-removebg-preview_24: 2115829577
+      Demon-removebg-preview_25: -1353242793
+      Demon-removebg-preview_26: 1586190315
+      Demon-removebg-preview_27: -1127693690
+      Demon-removebg-preview_28: 1517592730
+      Demon-removebg-preview_29: 1769779529
+      Demon-removebg-preview_3: 1323780627
+      Demon-removebg-preview_30: 838317078
+      Demon-removebg-preview_31: -616884066
+      Demon-removebg-preview_32: -767747610
+      Demon-removebg-preview_33: 860725596
+      Demon-removebg-preview_34: 35459581
+      Demon-removebg-preview_35: 1732947487
+      Demon-removebg-preview_36: -839988975
+      Demon-removebg-preview_37: 124920552
+      Demon-removebg-preview_38: -86206066
+      Demon-removebg-preview_39: -348092138
+      Demon-removebg-preview_4: -427968585
+      Demon-removebg-preview_40: 22505659
+      Demon-removebg-preview_41: 561690586
+      Demon-removebg-preview_42: 547620671
+      Demon-removebg-preview_43: 588795400
+      Demon-removebg-preview_44: -1020318590
+      Demon-removebg-preview_45: 1374984796
+      Demon-removebg-preview_46: -929855133
+      Demon-removebg-preview_47: -1242355803
+      Demon-removebg-preview_48: -1767427614
+      Demon-removebg-preview_49: 2105601764
+      Demon-removebg-preview_5: -2107253164
+      Demon-removebg-preview_50: -500636582
+      Demon-removebg-preview_51: -1527669290
+      Demon-removebg-preview_52: 1840388408
+      Demon-removebg-preview_53: 955305623
+      Demon-removebg-preview_54: 1338548099
+      Demon-removebg-preview_55: 1784958206
+      Demon-removebg-preview_56: 205995987
+      Demon-removebg-preview_57: 2049757688
+      Demon-removebg-preview_58: 349274582
+      Demon-removebg-preview_59: -267585022
+      Demon-removebg-preview_6: -401886005
+      Demon-removebg-preview_60: 689290169
+      Demon-removebg-preview_61: -1472191708
+      Demon-removebg-preview_62: 74863622
+      Demon-removebg-preview_63: 1941746647
+      Demon-removebg-preview_64: 543787939
+      Demon-removebg-preview_65: -227283423
+      Demon-removebg-preview_66: -499099367
+      Demon-removebg-preview_67: -1196207334
+      Demon-removebg-preview_68: 2086306487
+      Demon-removebg-preview_69: 1264150189
+      Demon-removebg-preview_7: 1963924401
+      Demon-removebg-preview_70: -1040262361
+      Demon-removebg-preview_71: -1707358976
+      Demon-removebg-preview_72: -915287008
+      Demon-removebg-preview_73: 1884622799
+      Demon-removebg-preview_8: 911209553
+      Demon-removebg-preview_9: -552833316
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
